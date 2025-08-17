@@ -1,8 +1,12 @@
-Create_GIT_Project:
-	
+Create_GIT_Project_1:
+	touch ReadMe &&
+	git init &&
+	git add . &&
+	git commit -m "initial commit" &&
+	gh auth login &&
+	gh repo create PROJECT_NAME --public --source=. --remote=origin --push
 
-
-Start_UI:
+Create_UI:
 
 Build_GO:
 

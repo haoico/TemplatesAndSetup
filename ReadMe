@@ -9,6 +9,9 @@
 ## Overview
 
 First tings First, get your VSCode-Editor[https://code.visualstudio.com/download] already
+<!-- markdownlint-disable MD033 -->
+<br>
+<!-- markdownlint-enable MD033 -->
 
 Let me give you a little Introduction to my Tech-Stack and to 'what is used for WHAT'?
 
@@ -157,6 +160,7 @@ To Setup all the mentioned Technologies on your MacBook, follow those Instructio
 - terraform version
 - brew install git
 - git --version
+- brew install gh
 
 ## Setting up a Terraform Template
 
