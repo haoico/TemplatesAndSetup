@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env/
+.venv/
+venv/
+
+# Build / binary artifacts
+build/
+dist/
+*.o
+*.out
+*.class
+*.exe
+*.dll
+*.bin
+*.a
+*.dylib
+
+# OS / IDE / Misc
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
