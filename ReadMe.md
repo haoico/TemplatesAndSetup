@@ -159,7 +159,7 @@ To Setup all the mentioned Technologies on your MacBook, follow those Instructio
 - nuxi --version
 - brew install go
 - go version
-- brew install python
+- brew install python@3.11
 - python3 --version
 - python3 --version
 - brew tap hashicorp/tap
