@@ -183,71 +183,71 @@ To Setup all the mentioned Technologies on your MacBook, follow those Instructio
 
 ## VSCode-Extensions
 
-aaron-bond.better-comments
-austenc.tailwind-docs
-blanu.vscode-styled-jsx
-bradlc.vscode-tailwindcss
-christian-kohler.npm-intellisense
-christian-kohler.path-intellisense
-codezombiech.gitignore
-davidanson.vscode-markdownlint
-dbaeumer.vscode-eslint
-dsznajder.es7-react-js-snippets
-eamodio.gitlens
-editorconfig.editorconfig
-esbenp.prettier-vscode
-formulahendry.auto-close-tag
-formulahendry.auto-rename-tag
-github.copilot
-github.copilot-chat
-gitlab.gitlab-workflow
-golang.go
-graphql.vscode-graphql
-graphql.vscode-graphql-syntax
-gruntfuggly.todo-tree
-hbenl.vscode-test-explorer
-imgildev.vscode-auto-barrel
-imgildev.vscode-json-flow
-imgildev.vscode-next-pack
-imgildev.vscode-nextjs-generator
-inci-august.august-themes
-infeng.vscode-react-typescript
-james-yu.latex-workshop
-jasonnutter.search-node-modules
-jawandarajbir.react-vscode-extension-pack
-jmkrivocapich.drawfolderstructure
-kisstkondoros.vscode-gutter-preview
-lucono.karma-test-explorer
-mariusalchimavicius.json-to-ts
-mathematic.vscode-latex
-mechatroner.rainbow-csv
-mhutchie.git-graph
-mikestead.dotenv
-ms-vscode.makefile-tools
-ms-vscode.test-adapter-converter
-ms-vscode.vscode-typescript-next
-ms-vsliveshare.vsliveshare
-msjsdiag.vscode-react-native
-mushan.vscode-paste-image
-naumovs.color-highlight
-oderwat.indent-rainbow
-pmneo.tsimporter
-pulkitgangwar.nextjs-snippets
-ritwickdey.liveserver
-shardulm94.trailing-spaces
-shd101wyy.markdown-preview-enhanced
-steoates.autoimport
-stringham.move-ts
-styled-components.vscode-styled-components
-usernamehw.errorlens
-vincaslt.highlight-matching-tag
-vivaxy.vscode-conventional-commits
-vue.volar
-willluke.nextjs
-wix.vscode-import-cost
-woongbaera.nextjs-pathfinder
-xabikos.javascriptsnippets
-xabikos.reactsnippets
-yoavbls.pretty-ts-errors
-yzhang.markdown-all-in-one
-zarifprogrammer.tailwind-snippets
+- aaron-bond.better-comments
+- austenc.tailwind-docs
+- blanu.vscode-styled-jsx
+- bradlc.vscode-tailwindcss
+- christian-kohler.npm-intellisense
+- christian-kohler.path-intellisense
+- codezombiech.gitignore
+- davidanson.vscode-markdownlint
+- dbaeumer.vscode-eslint
+- dsznajder.es7-react-js-snippets
+- eamodio.gitlens
+- editorconfig.editorconfig
+- esbenp.prettier-vscode
+- formulahendry.auto-close-tag
+- formulahendry.auto-rename-tag
+- github.copilot
+- github.copilot-chat
+- gitlab.gitlab-workflow
+- golang.go
+- graphql.vscode-graphql
+- graphql.vscode-graphql-syntax
+- gruntfuggly.todo-tree
+- hbenl.vscode-test-explorer
+- imgildev.vscode-auto-barrel
+- imgildev.vscode-json-flow
+- imgildev.vscode-next-pack
+- imgildev.vscode-nextjs-generator
+- inci-august.august-themes
+- infeng.vscode-react-typescript
+- james-yu.latex-workshop
+- jasonnutter.search-node-modules
+- jawandarajbir.react-vscode-extension-pack
+- jmkrivocapich.drawfolderstructure
+- kisstkondoros.vscode-gutter-preview
+- lucono.karma-test-explorer
+- mariusalchimavicius.json-to-ts
+- mathematic.vscode-latex
+- mechatroner.rainbow-csv
+- mhutchie.git-graph
+- mikestead.dotenv
+- ms-vscode.makefile-tools
+- ms-vscode.test-adapter-converter
+- ms-vscode.vscode-typescript-next
+- ms-vsliveshare.vsliveshare
+- msjsdiag.vscode-react-native
+- mushan.vscode-paste-image
+- naumovs.color-highlight
+- oderwat.indent-rainbow
+- pmneo.tsimporter
+- pulkitgangwar.nextjs-snippets
+- ritwickdey.liveserver
+- shardulm94.trailing-spaces
+- shd101wyy.markdown-preview-enhanced
+- steoates.autoimport
+- stringham.move-ts
+- styled-components.vscode-styled-components
+- usernamehw.errorlens
+- vincaslt.highlight-matching-tag
+- vivaxy.vscode-conventional-commits
+- vue.volar
+- willluke.nextjs
+- wix.vscode-import-cost
+- woongbaera.nextjs-pathfinder
+- xabikos.javascriptsnippets
+- xabikos.reactsnippets
+- yoavbls.pretty-ts-errors
+- yzhang.markdown-all-in-one
+- zarifprogrammer.tailwind-snippets
