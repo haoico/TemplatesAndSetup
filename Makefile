@@ -6,7 +6,8 @@ Create_GIT_Project_1:
 	gh auth login &&
 	gh repo create PROJECT_NAME --public --source=. --remote=origin --push
 
-Create_UI:
+Start_UI:
+	cd modern-nuxt-starter && npm run build && npm run dev
 
 Build_GO:
 
