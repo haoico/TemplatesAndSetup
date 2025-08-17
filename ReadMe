@@ -8,7 +8,14 @@
 
 ## Overview
 
-First tings First, get your VSCode-Editor[https://code.visualstudio.com/download] already
+First tings First, get your VSCode-Editor[https://code.visualstudio.com/download] already and use my Color-Scheme:
+
+![Color-Scheme-VSCode](ColorScheme.png)
+
+- Cntrl + Shift + P
+- Choose Preferences: Open User Settings (JSON)
+- Copy & Paste my settings.json from this Repository
+
 <!-- markdownlint-disable MD033 -->
 <br>
 <!-- markdownlint-enable MD033 -->
