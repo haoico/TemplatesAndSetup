@@ -1,5 +1,11 @@
 # Node.js
 node_modules/
+typescript-lambda/node_modules
+modern-nuxt-starter/node_modules
+modern-nuxt-starter/.nuxt
+modern-nuxt-starter/.output
+golang-lambda/bootstrap
+python-lambda/lambda_build
 
 # Python
 __pycache__/
