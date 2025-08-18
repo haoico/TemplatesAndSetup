@@ -171,15 +171,27 @@ To Setup all the mentioned Technologies on your MacBook, follow those Instructio
 
 ## Setting up a Terraform Template
 
+- Makefile
+
 ## Setting up a Golang-Lambda-Function
+
+- Makefile
 
 ## Setting up a Typecript-Lambda-Function
 
+- Makefile
+
 ## Setting up a Pythony-Lambda-Function
+
+- Makefile
 
 ## Setting up a NuxtJS-Project
 
+- Makefile
+
 ## Deploying Everything -> Look at MakeFile
+
+- Makefile
 
 ## VSCode-Extensions
 
@@ -251,3 +263,85 @@ To Setup all the mentioned Technologies on your MacBook, follow those Instructio
 - yoavbls.pretty-ts-errors
 - yzhang.markdown-all-in-one
 - zarifprogrammer.tailwind-snippets
+
+## Folder-Structure
+
+```plaintext
+TemplatesAndSetup/
+├── .gitignore
+├── ColorScheme.png
+├── Makefile
+├── ReadMe.md
+├── golang-lambda/
+│   ├── go.mod
+│   ├── go.sum
+│   └── main.go
+├── modern-nuxt-starter/
+│   ├── assets/
+│   │   └── css/
+│   │       └── main.css
+│   ├── components/
+│   ├── composables/
+│   │   ├── useAuth.ts
+│   │   ├── useDarkMode.ts
+│   │   ├── useNavigationStore.ts
+│   │   └── useNotification.ts
+│   ├── layouts/
+│   │   └── default.vue
+│   ├── middleware/
+│   │   └── auth.ts
+│   ├── pages/
+│   │   └── index.vue
+│   ├── plugins/
+│   │   ├── firebase.client.ts
+│   │   └── pinia.ts
+│   ├── types/
+│   ├── utils/
+│   │   └── logger.ts
+│   ├── nuxt.config.ts
+│   ├── tailwind.config.js
+│   └── tsconfig.json
+├── python-lambda/
+│   └── main.py
+├── typescript-lambda/
+│   ├── handler.ts
+│   ├── package-lock.json
+│   ├── package.json
+│   └── tsconfig.json
+└── multi-stage-terraform/
+    ├── Makefile
+    ├── backend.tf
+    ├── environments/
+    │   ├── development/
+    │   │   ├── main.tf
+    │   │   ├── variables.tf
+    │   │   └── terraform.auto.tfvars
+    │   ├── staging/
+    │   │   ├── main.tf
+    │   │   ├── variables.tf
+    │   │   └── terraform.auto.tfvars
+    │   └── production/
+    │       ├── main.tf
+    │       ├── variables.tf
+    │       └── terraform.auto.tfvars
+    └── modules/
+        ├── vpc/
+        │   ├── main.tf
+        │   ├── variables.tf
+        │   └── outputs.tf
+        ├── security/
+        │   ├── main.tf
+        │   ├── variables.tf
+        │   └── outputs.tf
+        ├── lambdas/
+        │   ├── main.tf
+        │   ├── variables.tf
+        │   └── outputs.tf
+        ├── databases/
+        │   ├── main.tf
+        │   ├── variables.tf
+        │   └── outputs.tf
+        └── user-interface/
+            ├── main.tf
+            ├── variables.tf
+            └── outputs.tf
