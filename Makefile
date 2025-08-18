@@ -39,3 +39,11 @@ Build_PT:
 	zip -r ../lambda_function.zip .
 
 Deploy_Terraform:
+	@if [ -z "$$STAGE" ]; then \
+		echo "Usage: STAGE=creation|staging|production make deploy"; \
+		exit 1; \
+	fi
+	terraform init -backend-config="key=${STAGE}/terraform.tfstate"
+	terraform apply -var-file="environments/${STAGE}/terraform.tfvars" -auto-approve
+
+//Example: STAGE=creation make Deploy_Terraform
