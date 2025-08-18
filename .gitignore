@@ -1,11 +1,13 @@
 # Node.js
 node_modules/
 typescript-lambda/node_modules
+typescript-lambda/dist/handler.js
 modern-nuxt-starter/node_modules
 modern-nuxt-starter/.nuxt
 modern-nuxt-starter/.output
 golang-lambda/bootstrap
 python-lambda/lambda_build
+python-lambda/lambda_function.zip
 
 # Python
 __pycache__/
